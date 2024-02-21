@@ -7,4 +7,4 @@ Exp 2: Through an ultrasonic sensor using an ESP32 microcontroller (a) to measur
 
 Exp 3: To measure temperature and humidity through the DHT11 sensor using an ESP32 microcontroller. | Sensor: DHT11
 
-Exp 4: Create a ThingSpeak channel, configure the ESP32 microcontroller to send temperature and humidity data through DHT11 sensor to ThingSpeak, and visualize data on the ThingSpeak platform. | # Sensor: DHT11
+Exp 4: Create a ThingSpeak channel, configure the ESP32 microcontroller to send temperature and humidity data through DHT11 sensor to ThingSpeak, and visualize data on the ThingSpeak platform. | Sensor: DHT11
